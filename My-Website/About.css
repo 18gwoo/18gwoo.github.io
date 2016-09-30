@@ -12,3 +12,23 @@ th{
     color:#ffffff; 
     background-color: #FF0000;
 }
+h1{
+    font-size:1.3em;
+    text-align:center;
+}
+table{
+    margin-left:auto;
+    margin-right:auto; 
+    text-align:left;
+    border-collapse:collapse;
+    cellspacing: 0px;
+}
+
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+p{
+    text-align:center;
+}
